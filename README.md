@@ -11,5 +11,10 @@ It's basically shorthands of some SFDX commands for Windows Powershell saves you
 3. **Voila!** 
 
 ### Example:
-
+```
+dxpush -> sfdx force:source:push
+dxpull -> sfdx force:source:pull
+dxlist -> sfdx force:org:list
+dxopen -> sfdx force:org:open 
+```
 ![](https://github.com/chiragpaliwal/sfdx-powershell-module/blob/main/sfdx-powershell-demo.gif?raw=true)
