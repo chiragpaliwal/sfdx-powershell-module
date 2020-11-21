@@ -12,4 +12,4 @@ It's basically shorthands of some SFDX commands for Windows Powershell saves you
 
 ### Example:
 
-![Powershell function demo] (sfdx-powershell-demo.gif)
+![](https://github.com/chiragpaliwal/sfdx-powershell-module/blob/main/sfdx-powershell-demo.gif?raw=true)
