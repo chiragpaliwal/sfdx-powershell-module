@@ -1,12 +1,12 @@
-﻿function dxpush {
+function dxpush {
     sfdx force:source:push
 }
 
-function dxpush {
+function dxpull {
     sfdx force:source:pull
 }
 
-function dxpush {
+function dxopen {
     sfdx force:org:open
 }
 
