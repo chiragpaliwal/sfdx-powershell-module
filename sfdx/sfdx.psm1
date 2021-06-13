@@ -13,3 +13,7 @@ function dxopen {
 function dxlist {
     sfdx force:org:list
 }
+
+function dxRunAllTests {
+    sfdx force:apex:test:run -c -l RunAllTestsInOrg -r human
+}
